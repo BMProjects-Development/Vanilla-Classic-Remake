@@ -34,8 +34,13 @@
 - <b>Optimized Vanilla Experience</b>: Configured to maintain a warm, classic Minecraft atmosphere while offering excellent optimization and smooth performance for any type of PC.
 
 
+# Trailer
+[YouTube](https://youtu.be/IPieXJCyWME?si=4thn9N2jKjZ9-YeF)
+
 # Download
-[CurseForge](https://www.curseforge.com/minecraft/modpacks/vanilla-classic-remake)
+[CurseForge](https://www.curseforge.com/minecraft/modpacks/vanilla-classic-remake) <br/>
+[Google Disk](https://drive.google.com/file/d/1P7HSgyuj9946MGCNt823OVscAviyNMwE/view?usp=drive_link) <br/>
+[Yandex Disk](https://disk.yandex.ru/d/h1kh-YwEPRNvcA)
 
 # Contacts & Supports
 [Telegram](https://t.me/BMProjects) <br/>
