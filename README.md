@@ -52,6 +52,6 @@
 [Gallery](https://www.curseforge.com/minecraft/modpacks/vanilla-classic-remake/gallery) <br/>
 [Relations](https://www.curseforge.com/minecraft/modpacks/vanilla-classic-remake/relations/dependencies) <br/>
 
-
+<img width="400" height="400" alt="8" src="https://github.com/user-attachments/assets/290bfe27-50b9-4292-a711-5319a2deb3ff" />
 
 </div>
