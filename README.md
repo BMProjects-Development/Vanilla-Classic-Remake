@@ -1,45 +1,52 @@
+<div align="center">
+<img width="1920" height="1080" alt="Vanilla Classic Remake" src="https://github.com/user-attachments/assets/93359af6-d818-4cb0-a46b-451f853e4767" />
+
+<p>
+  <a href="https://github.com/BMProjects-Development/Vanilla-Classic-Remake/commits/"><img src="https://img.shields.io/github/commit-activity/t/BMProjects-Development/Vanilla-Classic-Remake?style=for-the-badge&labelColor=DC143C&color=B22222" alt="Stars"></a>
+  <a href="https://github.com/BMProjects-Development/Vanilla-Classic-Remake/stargazers"><img src="https://img.shields.io/github/stars/BMProjects-Development/Vanilla-Classic-Remake.svg?style=for-the-badge&labelColor=DC143C&color=B22222" alt="Stars"></a>
+  <a href="https://github.com/BMProjects-Development/Vanilla-Classic-Remake/graphs/contributors"><img src="https://img.shields.io/github/contributors/BMProjects-Development/Vanilla-Classic-Remake.svg?style=for-the-badge&labelColor=DC143C&color=B22222" alt="Contributors"></a>
+  <a href="https://discord.gg/9GWKBVw3Ty"><img src="https://img.shields.io/discord/1087416155934834748?style=for-the-badge&label=Discord&logo=discord&logoColor=d9e0ee&labelColor=DC143C&color=B22222" alt="Discord"></a>
+</p>
+
 # Vanilla Classic Remake
+<b>Vanilla Classic Remake</b> is an immersive, adventure-driven Vanilla+ modpack for Minecraft 1.19.2 Forge, carefully designed to enhance the core essence of the original game without overwhelming you with complex machinery or heavy magic. In this world, you won't find tedious factories-instead, you will embark on a pure journey of exploration, mastering unique movement mechanics, encountering lost creatures, and founding your very own thriving kingdom. <b>Vanilla Classic Remake</b> features hundreds of well-balanced quests, modified recipes, custom scripts, and an incredibly cohesive progression tree that bridges all elements together. Are you ready to witness Minecraft exactly as it always should have been? <br/>
 
-# Vanilla+ and Adventures Modpack for 1.19.2 Forge
+# Features
+### <b>Progression and Kingdom Building</b>
+- <b>Establish Your Colony</b>: Deeply integrated with <i>MineColonies</i>, this pack challenges you to build, manage, and protect a massive settlement filled with intelligent citizens who gather resources and defend against dangerous raids!
 
-# 💥 Features:
+- <b>Adventure-Driven Quests</b>: Hundreds of custom quests divided into multiple intuitive chapters guide you through your journey, showing you what to explore, how to build, and explaining all the unique additions.
 
-- Lots of quests
-- Modified crafts
-- Link between all mods
-- Unique menu
-- Pleasant atmosphere in the game
-- Configured configs
-- Unique scripts
-- Custom items
-- Interesting build finale
+- <b>Interconnected Recipes</b>: Crafting mechanics and recipes have been thoughtfully modified to weave every feature together into a unified and satisfying progression loop.
 
-# Description
+### <b>Custom Content & Atmosphere</b>
+- <b>Breath of the Wild Inspiration</b>: Explore the world like never before with added paragliders and special movement tools inspired by <i>The Legend of Zelda: Breath of the Wild</i>!
 
-## En
-Vanilla Classic Remake is a build where you won't find complicated technical or magical mods. On the contrary, this assembly contains the simplest and most interesting mods that 
-complement and improve vanilla Minecraft! For example, mobs that lost in the game developers' vote have been added. By passing this game added a paraglider and a lot of other 
-content from the game Legend of Zelda: Breath of the Wild and much more.
+- <b>Lost Vote Creatures</b>: Meet unique mobs that originally lost in the official Minecraft developer mob votes—now fully alive, polished, and roaming across the land.
 
-But even in such a seemingly simple assembly, there are big and interesting mods. One of these is MineColonies! He is also the main mod in the build. With it, you can build a 
-huge colony of intelligent inhabitants who will bring you resources! But at the beginning of the colony's development, you still have to help them develop and defend against 
-raids from other colonies. Also, Vanilla Classic Remake has added many different visual particles and even visual crafting on the workbench! In addition, several large mods have 
-been assembled in the assembly, which add new buildings and dungeons, as well as improve existing ones.
+- <b>Immersive Aesthetics</b>: Features custom visual particles, immersive crafting right on the workbench interface, and a completely unique, stylized main menu.
 
-A huge number of interesting quests have been added to the assembly, which will take you through the entire assembly and tell you what you can do in it! And also, Vanilla Classic 
-Remake for version 1.19.2, therefore, in it you will be able to meet a beautiful and large-scale generation of the world and caves, as well as an Ancient city and Varden! 
-Therefore, install the assembly rather, go into the world and enjoy the assembly!
+### <b>Exploration & Mechanics</b>
+- <b>Enhanced Combat & Action</b>: Experience an updated, fluid combat system designed to make every sword swing and encounter with tougher monsters feel deeply engaging and dynamic.
 
-## Ru
-Vanilla Classic Remake - это сборка, в которой вы не найдете сложные технические или магические моды. Наоборот, в этой сборке собраны самые простые и интересные моды, которые 
-дополняют и улучшают ванильный Майнкрафт! Например добавлены мобы, которые проиграли в голосовании разработчиков игры. По мимо этого игру добавлен параплан и множество другого 
-контента из игры Legend of Zelda: Breath of the Wild и многое другое.
+- <b>Stunning World & Dungeon Generation</b>: Explore majestic, overhauled caves, towering mountain peaks, completely re-imagined existing dungeons, and challenging new structures guarded by formidable loot.
 
-Но даже в такой, казалось бы, простой сборке есть большие и интересные моды. Один из таких - MineColonies! Он также является главным модов в сборке. С помощью него вы сможете 
-построить огромную колонию разумных жителей, которые будут приносить вам ресурсы! Но в начале развития колонии вам все же придется помогать им развиваться и обороняться от рейдов 
-других колоний. Также, в Vanilla Classic Remake добавлено множество различных визуальных частиц и даже визуальные крафты на верстаке! Кроме этого, в сборке собрано несколько 
-крупных модов, которые добавляют новые строения и данжи, а также улучшают уже существующие.
+- <b>Optimized Vanilla Experience</b>: Configured to maintain a warm, classic Minecraft atmosphere while offering excellent optimization and smooth performance for any type of PC.
 
-В сборку было добавлено огромное количество интереснейших квестов, которые проведут вас по всей сборке и расскажут, чем в ней можно заняться! А также, Vanilla Classic Remake на 
-версию 1.19.2, следовательно, в ней вы сможете встретить красивую и масштабную генерацию мира и пещер, а также Древний город и Вардена! Поэтому скорее устанавливайте сборку, 
-заходите в мир и наслаждайтесь сборкой!
+
+# Download
+[CurseForge](https://www.curseforge.com/minecraft/modpacks/vanilla-classic-remake)
+
+# Contacts & Supports
+[Telegram](https://t.me/BMProjects) <br/>
+[Discord](https://discord.gg/9GWKBVw3Ty) <br/>
+[Patreon](https://www.patreon.com/c/BMProjectsMinecraft) <br/>
+[Boosty](https://boosty.to/barmaxx)
+
+# Other links
+[Gallery](https://www.curseforge.com/minecraft/modpacks/vanilla-classic-remake/gallery) <br/>
+[Relations](https://www.curseforge.com/minecraft/modpacks/vanilla-classic-remake/relations/dependencies) <br/>
+
+
+
+</div>
