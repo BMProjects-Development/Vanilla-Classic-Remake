@@ -22,7 +22,7 @@
 ### <b>Custom Content & Atmosphere</b>
 - <b>Breath of the Wild Inspiration</b>: Explore the world like never before with added paragliders and special movement tools inspired by <i>The Legend of Zelda: Breath of the Wild</i>!
 
-- <b>Lost Vote Creatures</b>: Meet unique mobs that originally lost in the official Minecraft developer mob votes—now fully alive, polished, and roaming across the land.
+- <b>Lost Vote Creatures</b>: Meet unique mobs that originally lost in the official Minecraft developer mob votes-now fully alive, polished, and roaming across the land.
 
 - <b>Immersive Aesthetics</b>: Features custom visual particles, immersive crafting right on the workbench interface, and a completely unique, stylized main menu.
 
